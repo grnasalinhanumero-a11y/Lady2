@@ -8,7 +8,7 @@ def home():
     return "Serviço rodando no Render! 🚀"
 
 # Inicia seu script principal como subprocesso
-subprocess.Popen(["python3", "jexarindia.py"])
+subprocess.Popen(["python3", "main.py"])
 
 import os
 port = int(os.environ.get("PORT", 10000))
