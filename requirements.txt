@@ -4,6 +4,7 @@ httpx
 google
 protobuf
 pycryptodome
+aiohttp
 psutil
 PyJWT
 urllib3
